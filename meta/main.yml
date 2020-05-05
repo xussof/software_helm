@@ -53,7 +53,15 @@ galaxy_info:
     # NOTE: A tag is limited to a single word comprised of alphanumeric characters.
     #       Maximum 20 tags per role.
 
-dependencies: []
+dependencies:
+  - src: git@github.com:xussof/software_openssl
+    scm: git
+    version: master
+    name: xussof.software_openssl
 
+  - src: git@github.com:xussof/software_wget
+    scm: git
+    version: master
+    name: xussof.software_wget
   # List your role dependencies here, one per line. Be sure to remove the '[]' above,
   # if you add dependencies to this list.

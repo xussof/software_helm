@@ -35,3 +35,5 @@ BSD
 Author Information
 ------------------
 Made by @xussof
+
+Source: https://computingforgeeks.com/install-and-use-helm-3-on-kubernetes-cluster/

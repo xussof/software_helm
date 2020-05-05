@@ -1,0 +1,10 @@
+---
+- src: git@github.com:xussof/software_openssl
+  scm: git
+  version: master
+  name: xussof.software_openssl
+
+- src: git@github.com:xussof/software_wget
+  scm: git
+  version: master
+  name: xussof.software_wget
